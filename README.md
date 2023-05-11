@@ -1,3 +1,6 @@
+![Alt Text](https://github.com/saraharouni/Expansion-International/blob/main/logo.png?raw=true)
+
+
 # Expansion à l'international
 Ce projet concerne l'expansion internationale d'une start-up EdTech nommée "Academy" qui propose des contenus de formation en ligne pour les étudiants au lycée et à l'université. 
 
