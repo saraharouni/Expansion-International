@@ -1,4 +1,7 @@
-![Alt Text](https://github.com/saraharouni/Expansion-International/blob/main/logo.png?raw=true)
+<p align="center">
+  <img src="https://github.com/saraharouni/Expansion-International/blob/main/logo.png?raw=true" alt="Alt Text">
+</p>
+
 
 
 # Expansion à l'international
